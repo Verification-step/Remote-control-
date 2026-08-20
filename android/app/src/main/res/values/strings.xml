@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remote Control</string>
+    <string name="accessibility_description">Allows the owner to perform approved remote touch gestures during an active remote-control session.</string>
+</resources>
